@@ -1,0 +1,1 @@
+source "$BR2_EXTERNAL_KUBOS_LINUX_PATH/package/xe-guest-utilities/Config.in"
